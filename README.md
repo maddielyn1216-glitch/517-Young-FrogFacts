@@ -1,5 +1,5 @@
 # 517-Young-FrogFacts
-##Pacman Frogs or South American Horned Frogs
+## Pacman Frogs or South American Horned Frogs
 These chunky frogs are notoriously round with a wide mouth, which earned them their nickname.
 They are sit and wait predators which means they burrow down in the mud and tries to eat anything that wanders by.
 Similar to pelicans, they will attempt to eat anything they can fit in their mouths:
